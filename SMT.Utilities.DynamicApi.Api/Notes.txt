@@ -1,6 +1,0 @@
-﻿  /* - desire: 
-     * not have to build controller and proxy boilerplate
-     * - implementation plan:
-     * client side: given the interface to the object that is to be proxied, build a utility that accepts an endpoint and interfaces with the server side utility.
-     * server side: given the interface and implementation of the object that is proxied, build out a controller that calls into this object
-     */

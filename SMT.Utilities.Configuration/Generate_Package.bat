@@ -1,1 +1,0 @@
-nuget pack SMT.Utilities.Configuration.csproj -Prop Configuration=Release

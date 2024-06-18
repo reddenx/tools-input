@@ -1,6 +1,0 @@
-{
-    "Type": "push",
-    "RegexMatcher": "^refs/tags/(logging-v(\\d+\\.\\d+\\.\\d+))$",
-    "RepoName": "Tools",
-    "ScriptPath": "sh /home/pi/dev/smt-tools-publishing/logging-package.sh {0} {1}"
-}
